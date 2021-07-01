@@ -5,10 +5,10 @@ markdown: kramdown
 
 # MyData
 owner:
-  name:           SungHoon Moon
+  name:           JunHo Park
   avatar:         photo.jpg
   bio:            "Ph.D. in Computer Science"
-  email:          moon9342@gmail.com
+  email:          junho6667@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
@@ -57,7 +57,7 @@ cover: assets/built/images/blog-cover1.png
 logo:
 logo_dark:
 
-favicon: assets/built/images/favicon.jpg
+favicon: assets/built/images/favicon.png
 # favicon으로 사용할 image
 
 production_url: https://KAN-JUNHO.github.io/
@@ -110,7 +110,7 @@ feed:
 safe: False
 lsi: False
 
-username: moon9342
+username: JunHo Park
 repo: GitHubPageMaker
 # username : travis-ci와 연동하는 github의 username
 # repo: travis-ci와 연동하는 github의 repository이름
@@ -145,9 +145,9 @@ exclude:
   - assets/images
   - _posts/angular
   - _posts/et-cetera
-  - _posts/python
+#  - _posts/python
   - _posts/typescript
-  #  - _posts/jekyll
+#  - _posts/jekyll
   - _posts/iot
   - _posts/r
   - _posts/economy
