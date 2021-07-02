@@ -8,7 +8,7 @@ date: 2021-06-01 17:40:00
 tags: [jekyll]
 class: post-template
 subclass: 'post tag-python'
-author: moon9342
+author: junho
 ---
 
 지킬에 관한 글입니다.!

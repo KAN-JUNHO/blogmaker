@@ -8,7 +8,7 @@ date: 2021-07-02 17:40:00
 tags: [python]
 class: post-template
 subclass: 'post tag-python'
-author: moon9342
+author: junho
 ---
 
 {% include python-table-of-contents.html %}
