@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://kan-junho.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://kan-junho.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-07-03T00:31:42+09:00</updated>
+  <id>https://kan-junho.github.io/tag/jekyll/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IT를 알자! | </title>
+  
+
+  
+    <subtitle>공부한 내용을 정리해서 올리는 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Jekyll 강좌(1) - Jekyll 기본</title>
+      <link href="https://kan-junho.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - Jekyll 기본" />
+      <published>2021-06-02T02:40:00+09:00</published>
+      <updated>2021-06-02T02:40:00+09:00</updated>
+      <id>https://kan-junho.github.io/jekyll-basic</id>
+      <content type="html" xml:base="https://kan-junho.github.io/jekyll-basic">&lt;p&gt;지킬에 관한 글입니다.!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>junho</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jekyll" />
+      
+
+      
+        <summary type="html">지킬에 관한 글입니다.!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
